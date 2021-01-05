@@ -1,6 +1,5 @@
 [pyrogram]
-api_id =
-api_hash =
-
+api_id = 1653897
+api_hash = 813810a52c79ccd86ccce2bf206a081a
 [bot-configuration]
-api_key =
+api_key = 1569155368:AAHXEYr8U1NnK1a1vz2Tab0WfyThSvozh5U
